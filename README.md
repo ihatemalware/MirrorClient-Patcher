@@ -1,4 +1,4 @@
-# SuperDisplay-Bypass-PoC
+# MirrorClient-Patcher
 
 A Proof of Concept (PoC) demonstrating a client-side in-app purchase (IAP) validation flaw in KeloCube MirrorClient (SuperDisplay).
 
